@@ -1,4 +1,4 @@
-# Bridge Hand Challenge 
+# Bridge Hand Challenge [[DEMO]](https://bridge-hand-challenge.herokuapp.com/)
 The goal of this challenge is to produce a beautiful and functional web app that shuffles four hands and determines the number of points a hand is worth in bridge.
 
 ## Brief
