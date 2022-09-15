@@ -13,7 +13,6 @@ export const Container = styled.div`
 `;
 
 export const Button = styled.button`
-  font-family: fantasy;
   position: absolute;
   top: calc(50% - 20px);
   left: calc(50% - 65px);
@@ -22,7 +21,7 @@ export const Button = styled.button`
   border-radius: 20px;
   font-size: 20px;
   color: #FFFFFF;
-  padding: 12px 16px 6px 16px;
+  padding: 12px 16px;
   text-transform: uppercase;
   cursor: pointer;
 

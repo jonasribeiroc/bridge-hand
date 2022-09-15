@@ -37,13 +37,12 @@ export const Container = styled.div<{ type: Type }>`
 `;
 
 export const Total = styled.div<{ type: Type }>`
-  font-family: fantasy;
   position: absolute;
   background-color: #ff8209;
-  border-radius: 14px;
-  padding: 4px 10px 0px 10px;
+  border-radius: 20px;
+  padding: 8px 10px;
   color: white;
-  width: 10px;
+  width: 16px;
   text-align: center;
   right: -20px;
 `;

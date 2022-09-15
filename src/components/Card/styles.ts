@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 
 export const Container = styled.div<{ width: number }>`
-  font-family: fantasy;
   margin: 1px;
   padding: 0.5em 0.5em;
   border-radius: 6px;
@@ -63,7 +62,7 @@ export const Number = styled.div<{ fontSize?: number }>`
   font-size: ${props => props.fontSize}px;
   color: ${props => props.color};
   line-height: 1;
-  margin-left: 2px;
+  margin-left: 3px;
 `;
 
 export const Suit = styled.img`
